@@ -63,7 +63,7 @@ downstream analysis.
 ---
 
 ## 📂 Project Structure
----
+```
 sql-business-performance-analysis/
 │
 ├── README.md
@@ -77,7 +77,7 @@ sql-business-performance-analysis/
 │ └── 05_pareto_analysis.sql
 └── insights/
 └── key_findings.md
----
+```
 
 
 ---
